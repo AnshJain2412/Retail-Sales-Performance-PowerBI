@@ -31,7 +31,7 @@ This dashboard can be used by business and analytics teams to:
 Below are screenshots from the Power BI dashboard:
 
 ### Sales Performance Overview
-![Sales Performance Overview](sales_performance_overview.png)
+![Sales Performance Overview](dashboard_overview.png)
 
 ### Sales Forecast
 ![Sales Forecast](sales_forecast_15_days.png)
